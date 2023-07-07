@@ -1,4 +1,4 @@
-<h1><center><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e9047d29-4775-47c9-b180-1d0069f14544/d5ecndw-981695a8-2828-479a-b2ad-3c21896b255c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U5MDQ3ZDI5LTQ3NzUtNDdjOS1iMTgwLTFkMDA2OWYxNDU0NFwvZDVlY25kdy05ODE2OTVhOC0yODI4LTQ3OWEtYjJhZC0zYzIxODk2YjI1NWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.62M-k34_mA_iHEAt8ontYRsknAZZCPO5xkxJc6PExsU"></center></h1>
+
 
 # Cats vs Dogs Classification using Image Augmentation and Keras
 
